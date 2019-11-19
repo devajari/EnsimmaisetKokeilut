@@ -1,0 +1,17 @@
+Git on Version control software
+siis käytännössäni fläppärini
+
+GitHub on webbisaitti tai web service
+luo ensin sähköpostiosoite ja käyttis
+
+Repository eli Repo sama kuin projektisi
+
+Commit on sitten sama kuin save
+
+Mikä on Hash
+
+sanastoa:
+  collaboration yhteistyö
+    branches oksat
+    merge yhdistää
+    
