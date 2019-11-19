@@ -10,6 +10,8 @@ Commit on sitten sama kuin save
 
 Mikä on Hash
 
+uutta pull request ja merge
+
 sanastoa:
   collaboration yhteistyö
     branches oksat
