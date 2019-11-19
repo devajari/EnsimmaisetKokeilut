@@ -1,3 +1,3 @@
 # EnsimmaisetKokeilut
 Aletaan tutustumaan
-git ja github for poetsin innoittamana kokiellaan
+git ja github for poetsin innoittamana kokeiluun
